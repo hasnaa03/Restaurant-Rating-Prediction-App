@@ -92,3 +92,6 @@ User authentication
 
 ⭐ If you like this project, don’t forget to star the repository!
 
+https://github.com/hasnaa03/Restaurant-Rating-Prediction-App/blob/main/Screenshot%202026-02-15%20144525.png
+
+https://github.com/hasnaa03/Restaurant-Rating-Prediction-App/blob/main/Screenshot%202026-02-15%20144735.png
